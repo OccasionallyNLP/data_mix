@@ -1,0 +1,12 @@
+version: "midm2.2"
+data_mix:
+  cc:  
+  encyclo: 
+  cosmopedia: 
+  written: 
+  book:  
+  webdata: 
+  dic: 
+  chat: 
+  news: 
+  spoken:
